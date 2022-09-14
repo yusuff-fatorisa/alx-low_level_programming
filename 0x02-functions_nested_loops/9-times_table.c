@@ -37,4 +37,4 @@ void timestable(void)
 		}
 		_putchar('\n');
 	}
-
+}
