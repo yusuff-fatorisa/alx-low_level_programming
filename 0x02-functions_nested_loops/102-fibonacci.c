@@ -22,11 +22,11 @@ int main(void)
 			printf("%ld\n, ", j);
 		} else
 		{
-			printf("%ld\n", j)
+			printf("%ld\n", j);
 		}
 		next = j + k;
 		j = k;
 		k = next;
 	}
-	retun (0);
+	return (0);
 }
