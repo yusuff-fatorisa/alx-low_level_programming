@@ -2,7 +2,7 @@
 
 
 /**
- * main - prints all single number of base 
+ * main - prints all single number of base
  * 10 starting from 0, followed by a new line
  *
  * Return: Always 0 (Success)
