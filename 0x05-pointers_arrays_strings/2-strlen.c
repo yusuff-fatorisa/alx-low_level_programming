@@ -1,19 +1,23 @@
 #include "main.h"
 
-
 /**
- * _puts - prints a string to stdout
+ * _strlen - returns the length of a string
  *
- * @str: pointer to the string to print
+ * @s: the b=string to evaluate
+ *
+ * Return: the length of the string
  */
 
-void _puts(char *str)
+int _strlen(char *s)
 {
 	int i;
 
-	for (i = 0; str[i] != '\0'; i++)
+	i = 0;
+
+	while (s[i] != '\0')
 	{
-		_putchar(str[i]);
+		i++;
 	}
-	_putchar('\n');
+
+	return (i);
 }
