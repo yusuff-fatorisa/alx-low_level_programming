@@ -15,13 +15,13 @@ void print_diagsums(int *a, int size)
 
 	int sum, sum1;
 
-	m = 0;
+	i = 0;
 
-	while (m < size)
+	while (i < size)
 	{
-		sum += *(a + m * size + m);
-		sum1 += *(a + m * size + size - m - 1);
-		m++;
+		sum += *(a + i * size + i);
+		sum1 += *(a + i * size + size - i - 1);
+		i++;
 	}
 
 	print("%d, %d\n", sum, sum1);
