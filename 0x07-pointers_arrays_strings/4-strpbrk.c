@@ -3,6 +3,7 @@
 
 /**
  * *_strpbrk - searches a string for any set of bytes
+ *
  * @s: the string to search
  * @accept: the string containing the bytes to look for
  *
