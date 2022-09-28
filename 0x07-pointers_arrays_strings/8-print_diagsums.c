@@ -6,7 +6,6 @@
  * of a square matrix of integers
  *
  * @a: the square matrix of which to print the sum of its diagonal
- *
  * @size: the size of the matrix
  */
 
@@ -21,8 +20,8 @@ void print_diagsums(int *a, int size)
 
 	for (i = 0; i < size; i++)
 	{
-		sum = sum + a[(size * i) + i];
-		sum1 = sum1 + a[(size * (i + 1)) - (i + 1)];
+		sum += a[(size * i) + i];
+		sum1 += a[(size * (i + 1)) - (i + 1)];
 	}
 
 	print("%d, %d\n", sum, sum1);
