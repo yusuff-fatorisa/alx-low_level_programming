@@ -16,7 +16,7 @@ int divisors(int n, int m)
 	else if (m / 2 > n)
 		return (divisors(n + 2, m));
 	else
-		return(1);
+		return (1);
 }
 
 /**
