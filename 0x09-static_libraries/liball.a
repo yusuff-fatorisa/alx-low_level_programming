@@ -1,6 +1,4 @@
 !<arch>
-//                                              18        `
-0-main_isupper.c/
 0-isupper.c/    0           0     0     644     215       `
 #include "main.h"
 
@@ -16,25 +14,6 @@ int _isupper(int c)
 	return (c >= 'A' && c <= 'Z');
 }
 
-/0              0           0     0     644     250       `
-#include "main.h"
-#include <stdio.h>
-
-/**
- * main - check the code.
- *
- * Return: Always 0.
- */
-int main(void)
-{
-    char c;
-
-    c = 'A';
-    printf("%c: %d\n", c, _isupper(c));
-    c = 'a';
-    printf("%c: %d\n", c, _isupper(c));
-    return (0);
-}
 0-memset.c/     0           0     0     644     332       `
 #include "main.h"
 
@@ -529,14 +508,6 @@ char *_strcpy(char *dest, char *src)
 
 	dest[i] = '\0';
 	return (dest);
-}
-main.c/         0           0     0     644     148       `
-#include "main.h"
-
-int main(void)
-{
-    _puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
-    return (0);
 }
 _putchar.c/     0           0     0     644     272       `
 #include "main.h"
