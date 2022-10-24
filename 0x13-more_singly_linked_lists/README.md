@@ -17,3 +17,6 @@
 
 4. ##### `2-add_nodeint.c`
     + Is a function that adds a new node at the beginning of a listint_t list.
+
+5. ##### `3-addnodeint_end.c`
+    + Is a function that adds a new node at the end of a listint_t list.
