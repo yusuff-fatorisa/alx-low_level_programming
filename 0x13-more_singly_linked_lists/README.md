@@ -23,3 +23,6 @@
 
 6. ##### `4-free_listint.c`
     + Is a function that frees a listint_t list.
+
+7. ##### `5-free_listint2.c`
+    + Write a function that frees a listint_t list.
