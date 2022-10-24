@@ -29,3 +29,6 @@
 
 8. ##### `6-pop_listint.c`
     + Is a function that deletes the head node of a listint_t linked list, and returns the head node’s data (n).
+
+9. ##### `7-get_nodeint.c`
+    + Is a function that returns the nth node of a listint_t linked list.
