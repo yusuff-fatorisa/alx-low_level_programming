@@ -20,3 +20,6 @@
 
 5. ##### `3-addnodeint_end.c`
     + Is a function that adds a new node at the end of a listint_t list.
+
+6. ##### `4-free_listint.c`
+    + Is a function that frees a listint_t list.
