@@ -47,3 +47,6 @@
 
 14. ##### `101-print_listint_safe.c`
     + Is a function that prints a listint_t linked list.
+
+15. ##### `102-free_listint_safe.c`
+    + Is a function that frees a listint_t list.
