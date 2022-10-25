@@ -44,3 +44,6 @@
 
 13. ##### `100-reverse_listint.c`
     + Is a function that reverses a listint_t linked list.
+
+14. ##### `101-print_listint_safe.c`
+    + Is a function that prints a listint_t linked list.
