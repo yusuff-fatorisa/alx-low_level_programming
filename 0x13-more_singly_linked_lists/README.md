@@ -50,3 +50,6 @@
 
 15. ##### `102-free_listint_safe.c`
     + Is a function that frees a listint_t list.
+
+16. ##### `103-find_loop.c`
+    + Is a function that finds the loop in a linked list.
