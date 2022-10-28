@@ -20,3 +20,6 @@ The files contained in this directory includes
 
 5.`### 2-get_bit.c`
     + Is a function that returns the value of a bit at a given index.
+
+6. `### 3-set_bit.c`
+    + Is a function that sets the value of a bit to 1 at a given index.
