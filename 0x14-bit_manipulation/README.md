@@ -32,3 +32,6 @@ The files contained in this directory includes
 
 9. `### 100-get_endianness.c`
     + Is a function that checks the endianness.
+
+10. `### 101-password`
+    + Finds the password for this program.
