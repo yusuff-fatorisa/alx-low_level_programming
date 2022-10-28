@@ -18,8 +18,11 @@ The files contained in this directory includes
 4. `### 1-print_binary.c`
     + Is a function that prints the binary representation of a number.
 
-5.`### 2-get_bit.c`
+5. `### 2-get_bit.c`
     + Is a function that returns the value of a bit at a given index.
 
 6. `### 3-set_bit.c`
     + Is a function that sets the value of a bit to 1 at a given index.
+
+7. `### 4-clear_bit.c`
+    + Is a function that sets the value of a bit to 0 at a given index. 
