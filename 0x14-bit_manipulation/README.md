@@ -2,7 +2,7 @@
 + ### This directory contains all tasks, functions and learnings related to [Bit Manipulation](https://en.wikipedia.org/wiki/Bitwise_operations_in_C) as related to the  [C Programming Language](https://en.wikipedia.org/wiki/C_(programming_language)).
 
 ![Basics of Bits Manipulation](https://he-s3.s3.amazonaws.com/media/uploads/cb985c2.png)
-			_`Basics of Bit Manipulation`_
+	_`Basics of Bit Manipulation`_
 
 ## Files
 The files contained in this directory includes
