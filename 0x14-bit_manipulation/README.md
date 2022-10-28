@@ -29,3 +29,6 @@ The files contained in this directory includes
 
 8. `### 5-flip_bits`
     + Is a function that returns the number of bits you would need to flip to get from one number to another.
+
+9. `### 100-get_endianness.c`
+    + Is a function that checks the endianness.
