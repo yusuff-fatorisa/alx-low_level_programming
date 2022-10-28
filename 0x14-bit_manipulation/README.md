@@ -13,7 +13,7 @@ The files contained in this directory includes
 2. ### `_putchar`
     + The replica of the `putchar` file in C which is used to display a single character to the `stdout`
 
-3. `### 0-binary_to_uint`
+3. ### `0-binary_to_uint`
     + Is a function that converts a binary number to an unsigned int.
 
 4. ### `1-print_binary.c`
