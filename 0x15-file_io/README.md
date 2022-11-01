@@ -20,3 +20,6 @@
 
 5. #### `2-append_text_to_file.c`
     - Is a function that appends text at the end of a file.
+
+6. #### `3-cp.c`
+    - Is a program that copies the content of a file to another file.
