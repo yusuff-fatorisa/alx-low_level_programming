@@ -17,3 +17,6 @@
 
 4. #### `1-create_file.c`
     - Is a function that creates a file.
+
+5. #### `2-append_text_to_file.c`
+    - Is a function that appends text at the end of a file.
