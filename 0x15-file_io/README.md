@@ -23,3 +23,5 @@
 
 6. #### `3-cp.c`
     - Is a program that copies the content of a file to another file.
+7. #### `100-elf_header.c`
+    - Displays the information contained in a `ELF` header at the start of a `ELF` file.
