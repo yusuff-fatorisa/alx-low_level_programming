@@ -38,3 +38,6 @@ The files present in this directory includes
 
 #### `6-sum_dlistint.c`
   - This file contains a function that returns the sum of all the data `(n)` of a `dlistint_t` linked list.
+
+#### `7-insert_dnodeint.c`
+  - This file contains a function that inserts a new node at a given position.
