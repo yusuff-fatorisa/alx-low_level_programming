@@ -29,3 +29,6 @@ The files present in this directory includes
 
 #### `3-add_dnodeint_end.c`
   - This file contains a function that adds a new node at the end of a `dlistint_t` list.
+
+#### `4-free_dlistint.c`
+  - This file contains a function that frees a `dlistint_t` list.
