@@ -26,3 +26,6 @@ The files present in this directory includes
 
 #### `2-add_dnodeint.c`
   - This file contains a function that adds a new node at the beginning of a `dlistint_t` list.
+
+#### `3-add_dnodeint_end.c`
+  - This file contains a function that adds a new node at the end of a `dlistint_t` list.
