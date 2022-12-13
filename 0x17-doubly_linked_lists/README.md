@@ -44,3 +44,6 @@ The files present in this directory includes
 
 #### `8-delete_dnodeint.c`
   - This file contains a function that deletes the node at index `index` of a `dlistint_t` linked list.
+
+#### `102-result`
+  - This file finds the largest palindrome made from the product of two 3-digit numbers.
