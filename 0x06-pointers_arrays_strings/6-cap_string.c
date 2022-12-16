@@ -15,7 +15,7 @@ char *cap_string(char *strg)
 	while (*(strg + i) != '\0')
 	{
 		if (i == 0 && *(strg + i) >= 'a' && *(strg + i) <= 'z')
-			*(strg + i) -= 32
+			*(strg + i) -= 32;
 		if (*(strg + i) == ' ' || *(strg + i) == '\t' ||
 				*(strg + i) == '\n' || *(strg + i) == ',' ||
 				*(strg + i) == ';' || *(strg + i) == '.' ||
