@@ -21,11 +21,14 @@ void print_number(int n)
 	}
 	else
 	{
-		while (by10 < n)
+		if (n > 1)
 		{
-			by10 *= 10;
+			while (by10 < n)
+			{
+				by10 *= 10;
+			}
+			by10 /= 10;
 		}
-		by10 /= 10;
 
 		while (n > 0)
 		{
