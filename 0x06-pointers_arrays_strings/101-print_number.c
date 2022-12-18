@@ -23,14 +23,14 @@ void print_number(int n)
 	{
 		if (n > 1)
 		{
-			while (by10 < n)
+			while (by10 <= n)
 			{
 				by10 *= 10;
 			}
 			by10 /= 10;
 		}
 
-		while (n > 0)
+		while (by10 > 0)
 		{
 			res = (n / by10);
 			_putchar(res + '0');
