@@ -26,3 +26,6 @@ The files contained in this repository includes
 
 #### `3-hash_table_set.c`
   - This file contains a function that adds an element to the hash table.
+
+#### `4-hash_table_get.c`
+  -- This file contains a function that retrieves a value associated with a key.
