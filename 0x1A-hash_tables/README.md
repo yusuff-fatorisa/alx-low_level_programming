@@ -17,3 +17,6 @@ The files contained in this repository includes
 
 #### `0-hash_table_create.c`
   - This file contains a function that creates a `hash table`.
+
+#### `1-djb2.c`
+  - This file contains a hash function that implements the `djb2` algorithm.
