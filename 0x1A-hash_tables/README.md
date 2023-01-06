@@ -20,3 +20,6 @@ The files contained in this repository includes
 
 #### `1-djb2.c`
   - This file contains a hash function that implements the `djb2` algorithm.
+
+#### `2-key_index.c`
+  - This file contains a function that gives you the index of a key.
