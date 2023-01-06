@@ -29,3 +29,6 @@ The files contained in this repository includes
 
 #### `4-hash_table_get.c`
   -- This file contains a function that retrieves a value associated with a key.
+
+#### `5-hash_table_print.c`
+  - This file contauns a function that prints a `hash table`.
