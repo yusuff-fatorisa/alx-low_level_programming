@@ -32,3 +32,6 @@ The files contained in this repository includes
 
 #### `5-hash_table_print.c`
   - This file contauns a function that prints a `hash table`.
+
+#### `6-hash_table_delete.c`
+  - This file contains a function that deletes a `hash table`.
