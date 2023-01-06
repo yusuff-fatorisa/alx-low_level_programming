@@ -23,3 +23,6 @@ The files contained in this repository includes
 
 #### `2-key_index.c`
   - This file contains a function that gives you the index of a key.
+
+#### `3-hash_table_set.c`
+  - This file contains a function that adds an element to the hash table.
